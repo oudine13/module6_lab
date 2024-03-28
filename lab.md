@@ -20,6 +20,10 @@ To stream the NY datasets:
   ```bash
   hdfs dfs -mkdir -p "/education/$GROUP/big-data/2024/fall/$USER/spark-streaming/checkpoint"
   ```
+- Clone this class' repo from GitHub to your /home/$USER/ on the edge node:
+  ```
+  git clone https://github.com/oudine13/module6_lab.git
+  ```
 - Go to this directory:
   ```
   cd lab-resources
